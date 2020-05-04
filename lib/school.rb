@@ -16,5 +16,5 @@ class School
   end
 
   def grade(grade_number)
-    
+  end 
 end
